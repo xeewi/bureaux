@@ -1,0 +1,64 @@
+/*** IFUP CSS  MOBILE ***/
+
+
+.col-4
+
+{
+	width: 100%;
+	padding-bottom: 40px;
+
+}
+
+.col-3
+
+{
+	width: 50%;
+
+}
+
+
+
+ #footer-home
+
+ {
+	 text-align: center;
+
+ }
+
+#section1
+
+{
+	height: auto;
+
+}
+
+.input-search {
+  margin-right: 30px;
+  margin-top: 40px;
+  width: 100%;
+}
+
+#social
+
+{
+	display: none;
+
+}
+
+#container-product
+
+{
+	width: 100%;
+
+}
+
+.title-product {
+  position: relative;
+  font-size: 2.5em;
+  color: #fff;
+  text-shadow: 1px 0px 1px black;
+  text-align: center;
+  top: 120px;
+}
+
+
